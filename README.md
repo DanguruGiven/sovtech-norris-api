@@ -1,2 +1,2 @@
-# sovtech-norris-api
+# sov-tech
 Created with CodeSandbox
